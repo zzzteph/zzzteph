@@ -10,7 +10,7 @@ Twitter: [@w34kp455](https://twitter.com/w34kp455)
 
 Telegram: [zzzteph](https://t.me/zzzteph)
 
-Discord: [steph#7408](https://discord.gg/8WvCajSv)
+Discord: [https://discord.gg/eEEWHPyEVp](https://discord.gg/eEEWHPyEVp)
 
 LinkedIn: [ivan iushkevich](https://www.linkedin.com/in/ivan-iushkevich/)
 
