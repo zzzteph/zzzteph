@@ -4,15 +4,6 @@ My name is Ivan, or **Steph**. I do security trainings, researches, and, from ti
 
 ⚡ Fun fact: I'm not a cat.
 
-## Contacts
-
-Twitter: [@w34kp455](https://twitter.com/w34kp455)
-
-Telegram: [zzzteph](https://t.me/zzzteph)
-
-Discord: [https://discord.gg/eEEWHPyEVp](https://discord.gg/eEEWHPyEVp)
-
-LinkedIn: [ivan iushkevich](https://www.linkedin.com/in/ivan-iushkevich/)
 
 ## Projects
 
