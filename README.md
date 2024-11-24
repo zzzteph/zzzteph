@@ -2,8 +2,6 @@
 
 My name is Ivan, or **Steph**. I do security trainings, researches, and, occasionally, some bug-hunting, pentests, and other security stuff.
 
-⚡ Fun fact: I'm not a cat.
-
 
 ## Projects
 
