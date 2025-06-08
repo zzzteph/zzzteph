@@ -51,7 +51,7 @@ Did talks at the next conferences: One-Conference, BlackHat, HackingConf, Grehac
 - CVE-2017-9969
 - CVE-2017-9969
 
-## Thanks for you support:
+## Thanks for your support:
 
 - [nyxgeek](https://github.com/nyxgeek)
 - [Surfshark VPN](https://get.surfshark.net/aff_c?offer_id=926&aff_id=38982)
