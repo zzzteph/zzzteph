@@ -54,9 +54,6 @@ Did talks at the next conferences: One-Conference, BlackHat, HackingConf, Grehac
 ## Thanks for your support:
 
 - [nyxgeek](https://github.com/nyxgeek)
-- [Surfshark VPN](https://get.surfshark.net/aff_c?offer_id=926&aff_id=38982)
-- [Surfshark Antivirus](https://get.surfshark.net/aff_c?offer_id=934&aff_id=38982)
-- [Incogni](https://get.incogni.io/aff_c?offer_id=1655&aff_id=38982)
 
 
 
